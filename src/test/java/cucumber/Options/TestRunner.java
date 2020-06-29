@@ -13,6 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 					,strict=true
 				) 
 
+/* this is TestRunner class body; it can be blank*/
 public class TestRunner {
 
 }
